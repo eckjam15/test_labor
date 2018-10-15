@@ -15,7 +15,7 @@ Versionsverwaltungssysteme:
 Wichtige Schritte in Git sind:
 
 1. `git add`
-1. `it commit`
+1. `git commit`
 1. `git push`
 
 Wietere Dokumentationen zu Git Sind [hier](https://guides.github.com/features/mastering-markdown/)
