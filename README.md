@@ -7,10 +7,10 @@ beschäftigen wir uns mit Versionsverwaltung.
 
 Versionsverwaltungssysteme:
 
-*Git
-*SVN
-*CSV
-*....
+* Git
+* SVN
+*C SV
+* ....
 
 Wichtige Schritte in Git sind:
 
