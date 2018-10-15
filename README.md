@@ -17,6 +17,7 @@ Wichtige Schritte in Git sind:
 1. `git add`
 1. `git commit`
 1. `git push`
+1. `git pull
 
 Wietere Dokumentationen zu Git Sind [hier](https://guides.github.com/features/mastering-markdown/)
 
