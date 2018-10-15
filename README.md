@@ -19,7 +19,7 @@ Wichtige Schritte in Git sind:
 1. `git push`
 1. `git pull
 
-Wietere Dokumentationen zu Git Sind [hier](https://guides.github.com/features/mastering-markdown/)
+Wietere Dokumentationen zu Git Sind [hier](https://guides.github.com/features/mastering-markdown/) zu finde.
 
 Ein erstes C-Programm sieht so aus:
 
